@@ -1,5 +1,5 @@
 # dont-stop-pretraining
-Code associated with the Don't Stop Pretraining ACL 2020 paper
+Code associated with the Don't Stop Pretraining ACL 2020 paper. Adapted by Aaron Mueller and Nathaniel Weir for multilingual applications.
 
 
 ## Citation
